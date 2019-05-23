@@ -1,0 +1,26 @@
+{
+  "name": "ajs_mod3",
+  "version": "1.0.0",
+  "description": "Netology AJS Modules Task#3",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikolaevski/ajs_mod3.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Alexey Nikolaevskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anikolaevski/ajs_mod3/issues"
+  },
+  "homepage": "https://github.com/anikolaevski/ajs_mod3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

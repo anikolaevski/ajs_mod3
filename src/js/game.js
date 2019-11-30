@@ -3,6 +3,7 @@
 /*export */class Game {
   start() {
     console.log('game started');
+    document.write('<p class="infostring">game started</p>');
   }
 }
 
